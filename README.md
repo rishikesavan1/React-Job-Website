@@ -1,12 +1,52 @@
-# React + Vite
+# React Job Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple job listing website built with React + Vite. This project is part of my React learning journey, where I practice building modern, responsive web applications.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Job listing cards with details
 
-## Expanding the ESLint configuration
+* Responsive design
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* Dynamic data loading (JSON-based or API-ready)
+
+* Component-based architecture
+
+* Fast development with Vite
+
+## 🛠️ Tech Stack
+
+* **React** – Frontend library
+
+* **Vite** – Development & build tool
+
+* **JavaScript (ES6+)**
+
+* **CSS** – Styling
+
+
+
+## ⚡ Installation & Setup
+
+1. **Clone the repository:**
+
+    `git clone https://github.com/rishikesavan1/React-Job-Website.git`
+
+
+2. **Navigate into the project folder:**
+
+
+    `cd React-Job-Website`
+
+3. **Install dependencies:**
+
+
+    `npm install`
+
+
+4. **Start the development server:**
+
+
+    `npm run dev`
+
+
